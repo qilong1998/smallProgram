@@ -1,0 +1,14 @@
+.cccc{
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  /* align-items: flex-end; */
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.cccc>view{
+  width: 200rpx;
+  height: 100rpx;
+  border: 1rpx solid black;
+  background: green;
+}
